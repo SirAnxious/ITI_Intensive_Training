@@ -9,7 +9,7 @@
 - Each Folder represents a day of the training.
 - It has Task description (either in PDF or image).
 - The solution (usually found in structured folders or same folder for Tasks that had single goal)
-
+- Solution (especially JavaScript) can have included functions that need to be called in Console.
 
 ## Suggestions & Improvements
 - If you think one of the solutions could be done better, please make an issue and I will take a look as soon as possible ^_^
