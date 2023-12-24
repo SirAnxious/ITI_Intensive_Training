@@ -8,7 +8,9 @@
 ## Structure
 - Each Task, you are given an XML file.
 - Day one you need to create Document Type Definition (DTD) for the XML file.
-- Day two you need to create Schema (XSD) for the XML file
+- Day two you need to create Schema (XSD) for the XML file.
+- For all tasks, you will need to have valid files created (DTD/XSD).
+- Validate using the tool below or any tool of choice.
 
 ## Suggestions & Improvements
 - If you think one of the solutions could be done better, please make an issue and I will take a look as soon as possible ^_^
