@@ -1,7 +1,7 @@
 # Intensive Training Bootcamp
 
 ## Goal
-- Full study of Several topics in a short period of time to prepare trainees for the current market needs.
+- Full study of Several topics in a short period of time to prepare trainees for the current market need.
 
 ## Structure
 - Each Folder is a Topic, inside of it are Days
